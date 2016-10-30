@@ -4,9 +4,6 @@
 :root {
 <<<<<<< HEAD
     --version-content: "0.1a";
-=======
-    --version-content: "1.0";
->>>>>>> origin/master
 }
 /* Version Displayed */
 .account:after {content: var(--version-content); color: rgba(255,255,255,0.2); font-size: 11px; font-weight: bold; position: absolute; bottom: 0; left: 149px; right: 0; opacity: 1;
@@ -35,9 +32,6 @@
     font-weight: 700;
 <<<<<<< HEAD
     content: "Kept updated by Sky5.hzol, restart to update.";
-=======
-    content: "Kept updated by Sky5.hzol.";
->>>>>>> origin/master
 }
 .help-container {
 	display: none;
@@ -48,12 +42,12 @@
 	/*width:290px;
     margin-left:-80px;*/
 	padding:0 15px !important;
-	background:#FFFFFF;
+	background:#19191b;
 	height:50px;
 }
 
 .links {
-	background-color:#FFFFFF !important;
+	background-color:#19191b !important;
     
 }
 
@@ -71,13 +65,13 @@
 }
 
 #voice-connection .btn {
-	background:#FFFFFF;
+	background:#19191b;
 	box-shadow:none !important;
 }
 
 .title-wrap {
-	border-bottom:#FFFFFF !important;
-	background:#FFFFFF !important;
+	border-bottom:#19191b !important;
+	background:#19191b !important;
 }
 
 .chat .new-messages-bar {
@@ -95,7 +89,7 @@
 }
 
 .chat .divider>span {
-	background:#FFFFFF !important;
+	background:#19191b !important;
 	font-size:12px;
 	text-transform:uppercase;
 	margin:0px 0px;
