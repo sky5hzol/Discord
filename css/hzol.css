@@ -29,7 +29,7 @@
     height: 15px;
     color: #3ddcb1;
     font-weight: 700;
-    content: "Updates are automatic. Just restart Discord to get the latest version.";
+    content: "Kept updated by Sky5.hzol.";
 }
 .help-container {
 	display: none;
@@ -40,7 +40,7 @@
 	/*width:290px;
     margin-left:-80px;*/
 	padding:0 15px !important;
-	background:#19191b;
+	background:#FFFFFF;
 	height:50px;
 }
 
@@ -63,13 +63,13 @@
 }
 
 #voice-connection .btn {
-	background:#19191b;
+	background:#FFFFFF;
 	box-shadow:none !important;
 }
 
 .title-wrap {
-	border-bottom:#19191b !important;
-	background:#19191b !important;
+	border-bottom:#FFFFFF !important;
+	background:#FFFFFF !important;
 }
 
 .chat .new-messages-bar {
@@ -87,7 +87,7 @@
 }
 
 .chat .divider>span {
-	background:#19191b !important;
+	background:#FFFFFF !important;
 	font-size:12px;
 	text-transform:uppercase;
 	margin:0px 0px;
